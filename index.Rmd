@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
   Born date: Oct, 2021.  
   
 ## My Courses  
-[Python II] (https://github.com/phabel-LD/python_classII): BioPython II class with python scripts.   
+[Python II](https://github.com/phabel-LD/python_classII): BioPython II class with python scripts.   
 
 ## Contact
 · email: phabel@lcg.unam.mx
