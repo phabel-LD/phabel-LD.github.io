@@ -1,0 +1,21 @@
+---
+title: "My personal page"
+author: "Phabel Antonio López Delgado"
+date: "11/23/2021"
+output: 
+  html_document:
+    theme: darkly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Personal Data  
+  Born date: Oct, 2021.  
+  
+## My Courses  
+[Python II] (https://github.com/phabel-LD/python_classII): BioPython II class with python scripts.   
+
+## Contact
+· email: phabel@lcg.unam.mx
