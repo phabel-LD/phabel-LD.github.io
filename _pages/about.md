@@ -31,5 +31,5 @@ My current research interests include:
 
 - [GitHub](https://github.com/phabel-LD)
 - [Google Scholar](https://scholar.google.com/citations?user=uoiVZKIAAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/phabel-l%C3%B3pez-7b5895273)
+- [LinkedIn](https://www.linkedin.com/in/phabel-lopez)
 - [ORCID](https://orcid.org/0009-0004-7160-1740)
